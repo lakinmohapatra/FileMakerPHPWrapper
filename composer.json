@@ -1,6 +1,16 @@
 {
     "name": "lakinmohapatra/FileMaker-PHP-ORM",
     "description": "ORM for interaction with filemaker database",
+    "homepage": "https://github.com/lakinmohapatra/FileMakerPHP_ORM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lakin Mohapatra",
+            "email": "lakinmohapatra@gmail.com",
+            "homepage": "lakinhacker.blogspot.in",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.3.0"
     }
