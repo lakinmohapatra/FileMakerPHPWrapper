@@ -1,5 +1,5 @@
 {
-    "name": "lakinmohapatra/FileMakerPHP_ORM",
+    "name": "lakinmohapatra/FileMaker-PHP-ORM",
     "description": "ORM for interaction with filemaker database",
     "require": {
         "php": ">=5.3.0"
