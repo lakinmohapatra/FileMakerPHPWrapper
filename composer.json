@@ -1,5 +1,5 @@
 {
-    "name": "lakinmohapatra/FileMaker-PHP-ORM",
+    "name": "lakinmohapatra/filemaker-php-orm",
     "description": "ORM for interaction with filemaker database",
     "homepage": "https://github.com/lakinmohapatra/FileMakerPHP_ORM",
     "license": "MIT",
