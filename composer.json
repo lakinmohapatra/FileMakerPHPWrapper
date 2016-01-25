@@ -1,7 +1,7 @@
 {
-    "name": "lakinmohapatra/filemaker-php-orm",
+    "name": "lakinmohapatra/filemaker-php-wrapper",
     "description": "ORM for interaction with filemaker database",
-    "homepage": "https://github.com/lakinmohapatra/FileMakerPHP_ORM",
+    "homepage": "https://github.com/lakinmohapatra/FileMakerPHPWrapper/",
     "license": "MIT",
     "authors": [
         {
@@ -13,5 +13,8 @@
     ],
     "require": {
         "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["FileMaker.php"]
     },
 }
