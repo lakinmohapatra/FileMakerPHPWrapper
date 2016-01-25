@@ -1,2 +1,2 @@
-# FileMakerPHP_ORM
-This represents one ORM for interaction with filemaker database using PHP
+# FileMakerPHPWrapper
+This represents one wrapper for interaction with filemaker database using PHP
